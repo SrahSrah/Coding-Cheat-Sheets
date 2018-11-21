@@ -5,4 +5,4 @@ A collection of cheat sheets for various languages, frameworks, etc. for future 
 
 ### Python:
   1. Flask Tutorial - for creating and connecting to servers
-  2. Argparse Tutorial - for creating CMLs with Python
+  2. Argparse Tutorial - for creating CLIs with Python
